@@ -1972,7 +1972,7 @@
 	},
 	{
 		"file": "rules/do-you-know-when-to-do-use-checked-by-xxx/rule.md",
-		"lastUpdated": "2021-07-26T14:52:20.581Z",
+		"lastUpdated": "2021-08-11T21:21:58.601Z",
 		"lastUpdatedBy": "Tiago Araújo [SSW]",
 		"lastUpdatedByEmail": "tiagov8@gmail.com",
 		"created": "2014-01-28T16:44:27+11:00",
@@ -7705,7 +7705,7 @@
 	},
 	{
 		"file": "rules/done-do-you-go-beyond-done-and-follow-a-definition-of-done/rule.md",
-		"lastUpdated": "2021-08-09T15:41:36.465Z",
+		"lastUpdated": "2021-08-11T01:30:45.372Z",
 		"lastUpdatedBy": "Tiago Araújo [SSW]",
 		"lastUpdatedByEmail": "tiagov8@gmail.com",
 		"created": "2014-11-05T16:52:52+11:00",
@@ -12826,9 +12826,9 @@
 	},
 	{
 		"file": "rules/do-you-use-icons-not-to-surprise-users-aka-use-the-correct-image-for-files/rule.md",
-		"lastUpdated": "2021-04-26T22:52:56.098Z",
-		"lastUpdatedBy": "Tiago Araújo [SSW]",
-		"lastUpdatedByEmail": "tiagov8@gmail.com",
+		"lastUpdated": "2021-08-12T02:05:40.802Z",
+		"lastUpdatedBy": "Taine Riley",
+		"lastUpdatedByEmail": "40375803+taineriley1@users.noreply.github.com",
 		"created": "2015-02-16T13:46:54+11:00",
 		"createdBy": "Rebecca Liu",
 		"createdByEmail": "RebeccaLiu@ssw.com.au"
@@ -27358,5 +27358,41 @@
 		"lastUpdated": "2021-08-05T16:47:38.799Z",
 		"lastUpdatedBy": "Tiago Araújo [SSW]",
 		"lastUpdatedByEmail": "tiagov8@gmail.com"
+	},
+	{
+		"file": "rules/basic-dos-and-donts-of-presenting/Picture1.png",
+		"created": "2021-08-11T06:31:44.919Z",
+		"createdBy": "Taine Riley",
+		"createdByEmail": "40375803+taineriley1@users.noreply.github.com",
+		"lastUpdated": "2021-08-11T06:31:44.919Z",
+		"lastUpdatedBy": "Taine Riley",
+		"lastUpdatedByEmail": "40375803+taineriley1@users.noreply.github.com"
+	},
+	{
+		"file": "rules/basic-dos-and-donts-of-presenting/Picture2.png",
+		"created": "2021-08-11T06:31:44.919Z",
+		"createdBy": "Taine Riley",
+		"createdByEmail": "40375803+taineriley1@users.noreply.github.com",
+		"lastUpdated": "2021-08-11T06:31:44.919Z",
+		"lastUpdatedBy": "Taine Riley",
+		"lastUpdatedByEmail": "40375803+taineriley1@users.noreply.github.com"
+	},
+	{
+		"file": "rules/basic-dos-and-donts-of-presenting/Picture3.jpg",
+		"created": "2021-08-11T06:31:44.919Z",
+		"createdBy": "Taine Riley",
+		"createdByEmail": "40375803+taineriley1@users.noreply.github.com",
+		"lastUpdated": "2021-08-11T06:31:44.919Z",
+		"lastUpdatedBy": "Taine Riley",
+		"lastUpdatedByEmail": "40375803+taineriley1@users.noreply.github.com"
+	},
+	{
+		"file": "rules/craft-and-deliver-engaging-presentations/rule.md",
+		"created": "2021-08-12T05:35:17.176Z",
+		"createdBy": "Taine Riley",
+		"createdByEmail": "40375803+taineriley1@users.noreply.github.com",
+		"lastUpdated": "2021-08-12T05:35:17.176Z",
+		"lastUpdatedBy": "Taine Riley",
+		"lastUpdatedByEmail": "40375803+taineriley1@users.noreply.github.com"
 	}
 ]
