@@ -1,6 +1,6 @@
 ---
 type: rule
-title: "Do you avoid changing the URL on a 404 error? "
+title: "Do you avoid changing the URL on a 404 error?  "
 uri: 404-error-avoid-changing-the-url
 authors: []
 related: []
