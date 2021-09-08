@@ -1,6 +1,6 @@
 ---
 type: rule
-title: Example Rule + Markdown Cheatsheet
+title: "Example Rule + Markdown Cheatsheet "
 uri: rule
 authors:
   - title: Christian Morford-Waite
